@@ -1,5 +1,5 @@
 <!-- <img width="100%" height="20%" src="https://media.giphy.com/media/duwwBJXGzB7AuOpaFw/giphy.gif"/> -->
-<img width="100%" height="20%" src="giphy.gif"/>
+<img height="10%" src="giphy.gif"/>
 
 ### Hi there 👋 I'm Sharon
 
@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Primap
 - 🌱 I’m currently learning Three.js
 - ⚡ Fun fact: In 2003 I showcased my garments during New York Fashion Week
--->
+
