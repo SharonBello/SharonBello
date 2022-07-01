@@ -1,5 +1,5 @@
 <!-- <img width="100%" height="20%" src="https://media.giphy.com/media/duwwBJXGzB7AuOpaFw/giphy.gif"/> -->
-<img width="100%" height="20%" src="giphy.gif"/>
+<img width="100%" height="10%" src="giphy.gif"/>
 
 ### Hi there 👋 I'm Sharon
 
