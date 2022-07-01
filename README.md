@@ -2,7 +2,7 @@
 
 ### Hi there 👋 I'm Sharon
 
-[![Linkedin Badge](https://img.shields.io/badge/-dhanrajdc7-blue?style=plastic-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dhanrajdc7/)](https://www.https://www.linkedin.com/in/sharon-bello-tech/)
+[![Linkedin Badge](https://img.shields.io/badge/-Sharon-blue?style=plastic-square&logo=Linkedin&logoColor=white&link=https://www.https://www.linkedin.com/in/sharon-bello-tech/]
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FSharonBello%2FSharonBello.git&label=VISITORS&countColor=%232ccce4)
 
 ## ABOUT ME
