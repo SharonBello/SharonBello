@@ -9,10 +9,10 @@ Hi there 👋 I'm Sharon
 <img width="100%" height="20%" src="gif3.gif"/>
 </center>
 
-![Linkedin Badge](https://img.shields.io/badge/-sharon-blue?label=Linkedin&style=plastic-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com%2Fin%2Fsharon-bello-tech/)
 
 <h1 class="about" align="center">
 ABOUT ME
+![Linkedin Badge](https://img.shields.io/badge/-sharon-blue?label=Linkedin&style=plastic-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com%2Fin%2Fsharon-bello-tech/)
 </h1>
 Self Starter & Quick Learner, Passionate about Coding & Technology. 
 
