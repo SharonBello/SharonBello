@@ -1,5 +1,5 @@
 <!-- <img width="100%" height="20%" src="https://media.giphy.com/media/duwwBJXGzB7AuOpaFw/giphy.gif"/> -->
-<img height="10%" src="giphy.gif"/>
+<img width="100%" height="10%" src="gif1.gif"/>
 
 ### Hi there 👋 I'm Sharon
 
@@ -18,6 +18,6 @@ As a former designer and educator, I am always eager to learn and develop my cod
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Primap
-- 🌱 I’m currently learning Three.js
+- 🌱 I’m currently practicing React
 - ⚡ Fun fact: In 2003 I showcased my garments during New York Fashion Week
 
