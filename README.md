@@ -1,8 +1,3 @@
-<!-- <img width="100%" height="20%" src="https://media.giphy.com/media/duwwBJXGzB7AuOpaFw/giphy.gif"/> -->
-<center>
-<!-- <img width="100%" height="200" src="gif2.gif"/> -->
-<img height="200" src="gif2.gif"/>
-</center>
 
 <h1 class="title" align="center">
 <b>
@@ -10,11 +5,20 @@ Hi there 👋 I'm Sharon
 </b>
 </h1>
 
+<!-- <img width="100%" height="20%" src="https://media.giphy.com/media/duwwBJXGzB7AuOpaFw/giphy.gif"/> -->
+<center>
+<!-- <img width="100%" height="200" src="gif2.gif"/> -->
+<img width="100%" src="gif3.gif"/>
+</center>
+
+
 ![Linkedin Badge](https://img.shields.io/badge/-sharon-blue?label=Linkedin&style=plastic-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com%2Fin%2Fsharon-bello-tech/)
 <br>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FSharonBello%2FSharonBello.git&label=VISITORS&countColor=%232ccce4)
 
-## ABOUT ME
+<h1 class="about" align="center">
+ABOUT ME
+</h1>
 Self Starter & Quick Learner, Passionate about Coding & Technology. 
 
 I'm a Full Stack developer, who loves to volunteer in social-impact startups, currently working with Primap, a technological platform aimed at helping teenagers with social anxiety. I also volunteer at the SheCodes organization, mentoring other women coders. 
