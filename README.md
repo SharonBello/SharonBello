@@ -1,9 +1,11 @@
 <!-- <img width="100%" height="20%" src="https://media.giphy.com/media/duwwBJXGzB7AuOpaFw/giphy.gif"/> -->
-<img width="100%" height="2%" src="gif2.gif"/>
+<center>
+<img width="100%" height="20" src="gif2.gif"/>
+</center>
 
-<p class="title" align="center">
+<h1 class="title" align="center">
 Hi there 👋 I'm Sharon
-</p>
+</h1>
 
 ![Linkedin Badge](https://img.shields.io/badge/-sharon-blue?label=Linkedin&style=plastic-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com%2Fin%2Fsharon-bello-tech/)
 <br>
