@@ -2,8 +2,8 @@
 <img width="100%" height="2%" src="gif2.gif"/>
 
 
-
-#                                                     **Hi there 👋 I'm Sharon**
+<p class="text-center">Hi there 👋 I'm Sharon</p>
+<!-- # **Hi there 👋 I'm Sharon** -->
 
 ![Linkedin Badge](https://img.shields.io/badge/-sharon-blue?label=Linkedin&style=plastic-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com%2Fin%2Fsharon-bello-tech/)
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FSharonBello%2FSharonBello.git&label=VISITORS&countColor=%232ccce4)
