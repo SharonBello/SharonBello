@@ -5,17 +5,17 @@ Hi there 👋 I'm Sharon
 </b>
 </h1>
 
-<!-- <img width="100%" height="20%" src="https://media.giphy.com/media/duwwBJXGzB7AuOpaFw/giphy.gif"/> -->
 <center>
-<!-- <img width="100%" height="200" src="gif2.gif"/> -->
-<!-- <img width="100%" src="gif3.gif"/> -->
 <img width="100%" height="20%" src="gif3.gif"/>
 </center>
 
 
+<left>
 ![Linkedin Badge](https://img.shields.io/badge/-sharon-blue?label=Linkedin&style=plastic-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com%2Fin%2Fsharon-bello-tech/)
-<br>
+</left>
+<right>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FSharonBello%2FSharonBello.git&label=VISITORS&countColor=%232ccce4)
+</right>
 
 <h1 class="about" align="center">
 ABOUT ME
