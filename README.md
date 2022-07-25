@@ -6,7 +6,8 @@ Hi there 👋 I'm Sharon
 </h1>
 
 <center>
-<img width="100%" height="20%" src="gif3.gif"/>
+<!-- <img width="100%" height="20%" src="gif3.gif"/> -->
+<img width="100%" height="20%" src="gif4.gif"/>
 </center>
 
 
