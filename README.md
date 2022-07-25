@@ -10,9 +10,6 @@ Hi there 👋 I'm Sharon
 </center>
 
 ![Linkedin Badge](https://img.shields.io/badge/-sharon-blue?label=Linkedin&style=plastic-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com%2Fin%2Fsharon-bello-tech/)
-<br>
-<br>
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FSharonBello%2FSharonBello.git&label=VISITORS&countColor=%232ccce4)
 
 <h1 class="about" align="center">
 ABOUT ME
@@ -30,4 +27,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Primap
 - 🌱 I’m currently practicing React
 - ⚡ Fun fact: In 2003 I showcased my garments during New York Fashion Week
+
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FSharonBello%2FSharonBello.git&label=VISITORS&countColor=%232ccce4)
+
 
