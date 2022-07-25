@@ -8,7 +8,8 @@ Hi there 👋 I'm Sharon
 <!-- <img width="100%" height="20%" src="https://media.giphy.com/media/duwwBJXGzB7AuOpaFw/giphy.gif"/> -->
 <center>
 <!-- <img width="100%" height="200" src="gif2.gif"/> -->
-<img width="100%" src="gif3.gif"/>
+<!-- <img width="100%" src="gif3.gif"/> -->
+<img width="100%" height="20%" src="gif3.gif"/>
 </center>
 
 
