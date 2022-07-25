@@ -1,5 +1,6 @@
 <!-- <img width="100%" height="20%" src="https://media.giphy.com/media/duwwBJXGzB7AuOpaFw/giphy.gif"/> -->
-<img width="100%" height="2%" src="gif2.gif"/>
+<!-- <img width="100%" height="2%" src="gif2.gif"/> -->
+<img height="2%" src="gif2.gif"/>
 
 
 
