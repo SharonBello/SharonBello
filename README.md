@@ -12,8 +12,10 @@ Hi there 👋 I'm Sharon
 
 <h1 class="about" align="center">
 ABOUT ME
-![Linkedin Badge](https://img.shields.io/badge/-sharon-blue?label=Linkedin&style=plastic-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com%2Fin%2Fsharon-bello-tech/)
 </h1>
+
+![Linkedin Badge](https://img.shields.io/badge/-sharon-blue?label=Linkedin&style=plastic-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com%2Fin%2Fsharon-bello-tech/)
+
 Self Starter & Quick Learner, Passionate about Coding & Technology. 
 
 I'm a Full Stack developer, who loves to volunteer in social-impact startups, currently working with Primap, a technological platform aimed at helping teenagers with social anxiety. I also volunteer at the SheCodes organization, mentoring other women coders. 
