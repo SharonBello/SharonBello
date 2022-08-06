@@ -1,4 +1,3 @@
-
 <h1 class="title" align="center">
 <b>
 Hi there 👋 I'm Sharon
@@ -22,23 +21,24 @@ Full-Stack Developer with knowledge and experience in writing single-page-applic
 &nbsp;
 &emsp;
 </h3>
-<hr>   
+<hr>
 
 <h3>
 &nbsp;
 &emsp;
 &nbsp;
-&emsp; 
+&emsp;
 
-A self Starter & quick Learner, passionate about coding & technology , who loves to volunteer in social-impact startups, currently working with Primap, a technological platform aimed at helping teenagers with social anxiety. I also volunteer at the SheCodes organization, mentoring other women coders. 
+A self Starter & quick Learner, passionate about coding & technology , who loves to volunteer in social-impact startups, currently working with Primap, a technological platform aimed at helping teenagers with social anxiety. I also volunteer at the SheCodes organization, mentoring other women coders.
 
-I recently graduated from the Coding Academy bootcamp where I fell in love with React, Angular and other modern web frameworks. 
+I recently graduated from the Coding Academy bootcamp where I fell in love with React, Angular and other modern web frameworks.
 
-As a former designer and educator, I am always eager to learn and develop my coding skills. Currently, I'm working on a couple of projects, including an end-to-end Angular project, while getting to know 3d libraries such as Three.js. 
+As a former designer and educator, I am always eager to learn and develop my coding skills. Currently, I'm working on a couple of projects, including an end-to-end Angular project, while getting to know 3d libraries such as Three.js.
 &nbsp;
 &emsp;
 &nbsp;
 &emsp;
+
 </h3>
 
 &nbsp;
@@ -49,16 +49,15 @@ As a former designer and educator, I am always eager to learn and develop my cod
 - 🔭 I’m currently working on Primap and the Butterfly-Button
 - 🌱 I’m currently practicing React and Angular
 - ⚡ Fun fact: In 2003 I showcased my garments during New York Fashion Week
-&nbsp;
-&emsp;
-&nbsp;
-&nbsp;
+  &nbsp;
+  &emsp;
+  &nbsp;
+  &emsp;
+
 <hr>
 
-
-
 📫 How to reach me *sharonbellotech@gmail.com* <br>
-   
+
 <h3 align="left">My Resume:</h3>
 <p align="left">
 <a href="https://drive.google.com/file/d/1MMTYRxj2ppO7WEi4quAOKhUALlohjJFz/view?usp=sharing" target="_blank"><img
@@ -73,13 +72,11 @@ As a former designer and educator, I am always eager to learn and develop my cod
    </p>
    <hr>
    <h2 align="left">Languages and Tools:</h2>
-   &nbsp;
-   &emsp;
-   &nbsp;
+    &nbsp;
+    &emsp;
+    &nbsp;
+    &emsp;
    <p align="left">
-     &nbsp;
-   &emsp;
-   &nbsp;
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
             alt="javascript" width="40" height="40" />
