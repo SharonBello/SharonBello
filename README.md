@@ -52,10 +52,12 @@ As a former designer and educator, I am always eager to learn and develop my cod
 &nbsp;
 <hr>
 &nbsp;
-   📫 How to reach me *sharonbellotech@gmail.com* <br>
-   <h3 align="left">My Resume:</h3>
-   <p align="left">
-      <a href="https://drive.google.com/file/d/1MMTYRxj2ppO7WEi4quAOKhUALlohjJFz/view?usp=sharing" target="_blank"><img
+
+📫 How to reach me *sharonbellotech@gmail.com* <br>
+   
+<h3 align="left">My Resume:</h3>
+<p align="left">
+<a href="https://drive.google.com/file/d/1MMTYRxj2ppO7WEi4quAOKhUALlohjJFz/view?usp=sharing" target="_blank"><img
             align="center" src="https://www.svgrepo.com/show/262734/curriculum-vitae-resume.svg"
             alt="sharon-bello-resume" height="40" width="40" /></a>
    </p>
