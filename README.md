@@ -76,12 +76,12 @@ As a former designer and educator, I am always eager to learn and develop my cod
    
    <h2 align="left">Languages and Tools:</h2>
 
-  <h3></h3>
+  <br>
   &nbsp;
   &emsp;
   &nbsp;
   &emsp;
-  <h3></h3>
+
    <p align="left">
 
    &nbsp;
