@@ -73,12 +73,15 @@ As a former designer and educator, I am always eager to learn and develop my cod
    </p>
   
    <hr>
-    &nbsp;
+
+
+   <h2 align="left">Languages and Tools:
+   
+&nbsp;
   &emsp;
   &nbsp;
   &emsp;
-
-   <h2 align="left">Languages and Tools:</h2>
+   </h2>
 
    <p align="left">
 
