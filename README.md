@@ -3,40 +3,55 @@
 <b>
 Hi there 👋 I'm Sharon
 </b>
-</h1>
-
+<hr>
 <center>
 <!-- <img width="100%" height="20%" src="gif3.gif"/> -->
 <img width="100%" height="20%" src="gif4.gif"/>
 </center>
-
-
-<h1 class="about" align="center">
+ <hr>
 ABOUT ME
-<br>
-</h1>
+ </h1>
 
 <!-- ![Linkedin Badge](https://img.shields.io/badge/-sharon-blue?label=Linkedin&style=plastic-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com%2Fin%2Fsharon-bello-tech/) -->
 
-<h2 align="left">Full-Stack Developer with knowledge and experience in writing single-page-applications using the latest web technologies such as Node.js, React.js, Angular, CSS, SASS and HTML.
-<br>
- </h2>
-      
+<h3 align="center">
+&emsp;
+&nbsp;
+&emsp;
+Full-Stack Developer with knowledge and experience in writing single-page-applications using the latest web technologies such as Node.js, React.js, Angular, CSS, SASS and HTML.
+&nbsp;
+&emsp;
+</h3>
+<hr>   
+
+<h4>
+&nbsp;
+&emsp;
+&nbsp;
+&emsp; 
 A self Starter & quick Learner, passionate about coding & technology , who loves to volunteer in social-impact startups, currently working with Primap, a technological platform aimed at helping teenagers with social anxiety. I also volunteer at the SheCodes organization, mentoring other women coders. 
 
 I recently graduated from the Coding Academy bootcamp where I fell in love with React, Angular and other modern web frameworks. 
 
-As a former designer and educator, I am always eager to learn and develop my coding skills. Currently, I'm working on a couple of projects, including an end-to-end Angular project, while getting to know 3d libraries such as Three.js and particles.js. 
+As a former designer and educator, I am always eager to learn and develop my coding skills. Currently, I'm working on a couple of projects, including an end-to-end Angular project, while getting to know 3d libraries such as Three.js. 
+&nbsp;
+&emsp;
+&nbsp;
+&emsp;
+</h4>
+&nbsp;
+&emsp;
+&nbsp;
+&emsp;
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Primap
-- 🌱 I’m currently practicing React
+- 🔭 I’m currently working on Primap and the Butterfly-Button
+- 🌱 I’m currently practicing React and Angular
 - ⚡ Fun fact: In 2003 I showcased my garments during New York Fashion Week
-
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FSharonBello%2FSharonBello.git&label=VISITORS&countColor=%232ccce4)
-   <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sharonbello&label=Profile%20views&color=0e75b6&style=flat"
-         alt="Sharonbello" /> </p> -->
+&nbsp;
+&emsp;
+&nbsp;
+<hr>
+&nbsp;
    📫 How to reach me *sharonbellotech@gmail.com* <br>
    <h3 align="left">My Resume:</h3>
    <p align="left">
@@ -50,6 +65,7 @@ Here are some ideas to get you started:
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
             alt="sharon-bello" height="30" width="40" /></a>
    </p>
+   <hr>
    <h3 align="left">Languages and Tools:</h3>
    <p align="left">
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img
@@ -144,4 +160,8 @@ Here are some ideas to get you started:
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/moodle/moodle-original-wordmark.svg" alt="Moodle" width="40" height="40" />
       </a>
    </p>
+   <hr>
+   ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FSharonBello%2FSharonBello.git&label=VISITORS&countColor=%232ccce4)
+   <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sharonbello&label=Profile%20views&color=0e75b6&style=flat"
+         alt="Sharonbello" /> </p> -->
 
