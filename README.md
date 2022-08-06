@@ -74,20 +74,21 @@ As a former designer and educator, I am always eager to learn and develop my cod
   
    <hr>
    
-   <h2 align="left">Languages and Tools:</h2>
+   <h2   
+   &nbsp;
+  &emsp;
+  &nbsp;
+  &emsp;
+  align="left">Languages and Tools:</h2>
 
-  <br>
-  &nbsp;
-  &emsp;
-  &nbsp;
-  &emsp;
+
+
 
    <p align="left">
 
    &nbsp;
   &emsp;
-  &nbsp;
-  &emsp;
+
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
             alt="javascript" width="40" height="40" />
