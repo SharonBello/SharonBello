@@ -43,18 +43,16 @@ As a former designer and educator, I am always eager to learn and develop my cod
 
 &nbsp;
 &emsp;
-&nbsp;
-&emsp;
 
 - 🔭 I’m currently working on Primap and the Butterfly-Button
 - 🌱 I’m currently practicing React and Angular
 - ⚡ Fun fact: In 2003 I showcased my garments during New York Fashion Week
   &nbsp;
   &emsp;
+<hr>
+
   &nbsp;
   &emsp;
-
-<hr>
 
 📫 How to reach me *sharonbellotech@gmail.com* <br>
 
