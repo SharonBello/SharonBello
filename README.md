@@ -57,7 +57,7 @@ As a former designer and educator, I am always eager to learn and develop my cod
 
 <hr>
 
-<h3 align="left">📫 How to reach me </h3>*sharonbellotech@gmail.com*
+<h3 align="left">📫 Email me: </h3><p>*sharonbellotech@gmail.com*</p>
 
 <h3 align="left">My Resume:</h3>
 <p align="left">
