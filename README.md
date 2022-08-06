@@ -15,7 +15,7 @@ Hi there 👋 I'm Sharon
 ABOUT ME
 </h1>
 
-![Linkedin Badge](https://img.shields.io/badge/-sharon-blue?label=Linkedin&style=plastic-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com%2Fin%2Fsharon-bello-tech/)
+<!-- ![Linkedin Badge](https://img.shields.io/badge/-sharon-blue?label=Linkedin&style=plastic-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com%2Fin%2Fsharon-bello-tech/) -->
 
 <h2 align="left"> I am Full-Stack Developer with knowledge and experience writing single-page-applications using the latest web technologies such as Node.js, React.js, CSS, SASS and HTML.
  </h2>
@@ -38,7 +38,7 @@ Here are some ideas to get you started:
    📫 How to reach me *sharonbellotech@gmail.com* <br>
    <h3 align="left">My Resume:</h3>
    <p align="left">
-      <a href="https://drive.google.com/file/d/1-Ey1kGrYMdA4OKhynDV27YXm3ojD5_ws/view" target="_blank"><img
+      <a href="https://drive.google.com/file/d/1MMTYRxj2ppO7WEi4quAOKhUALlohjJFz/view?usp=sharing" target="_blank"><img
             align="center" src="https://www.svgrepo.com/show/262734/curriculum-vitae-resume.svg"
             alt="sharon-bello-resume" height="40" width="40" /></a>
    </p>
