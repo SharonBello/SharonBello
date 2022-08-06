@@ -14,9 +14,6 @@ ABOUT ME
 
 <!-- ![Linkedin Badge](https://img.shields.io/badge/-sharon-blue?label=Linkedin&style=plastic-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com%2Fin%2Fsharon-bello-tech/) -->
 
-<h2 align="left"></h2> I am Full-Stack Developer with knowledge and experience in writing single-page-applications using the latest web technologies such as Node.js, React.js, Angular, CSS/, SASS and HTML.
- </h2>
-      
 <h3 align="center">
 &emsp;
 &nbsp;
