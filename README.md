@@ -161,7 +161,6 @@ As a former designer and educator, I am always eager to learn and develop my cod
       </a>
    </p>
    <hr>
-   ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FSharonBello%2FSharonBello.git&label=VISITORS&countColor=%232ccce4)
-   <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sharonbello&label=Profile%20views&color=0e75b6&style=flat"
-         alt="Sharonbello" /> </p> -->
-
+   
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FSharonBello%2FSharonBello.git&label=VISITORS&countColor=%232ccce4)
+<h3></h3>
