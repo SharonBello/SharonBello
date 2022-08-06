@@ -14,11 +14,9 @@ ABOUT ME
 
 <!-- ![Linkedin Badge](https://img.shields.io/badge/-sharon-blue?label=Linkedin&style=plastic-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com%2Fin%2Fsharon-bello-tech/) -->
 
-<<<<<<< HEAD
 <h2 align="left"></h2> I am Full-Stack Developer with knowledge and experience in writing single-page-applications using the latest web technologies such as Node.js, React.js, Angular, CSS/, SASS and HTML.
  </h2>
       
-=======
 <h3 align="center">
 &emsp;
 &nbsp;
@@ -35,7 +33,6 @@ Full-Stack Developer with knowledge and experience in writing single-page-applic
 &nbsp;
 &emsp; 
 
->>>>>>> ae8b0fedc0eb7e506ad7a3f7e0a07974250102c2
 A self Starter & quick Learner, passionate about coding & technology , who loves to volunteer in social-impact startups, currently working with Primap, a technological platform aimed at helping teenagers with social anxiety. I also volunteer at the SheCodes organization, mentoring other women coders. 
 
 I recently graduated from the Coding Academy bootcamp where I fell in love with React, Angular and other modern web frameworks. 
