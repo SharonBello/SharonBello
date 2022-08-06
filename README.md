@@ -57,9 +57,9 @@ As a former designer and educator, I am always eager to learn and develop my cod
 
 <hr>
 &nbsp;
-&emsp;
 
-<h3 align="left">📫 How to reach me *sharonbellotech@gmail.com*</h3>
+
+<h3 align="left">📫 How to reach me </h3>*sharonbellotech@gmail.com*<br>
 
 <h3 align="left">My Resume:</h3>
 <p align="left">
@@ -74,7 +74,7 @@ As a former designer and educator, I am always eager to learn and develop my cod
             alt="sharon-bello" height="30" width="40" /></a>
    </p>
    &nbsp;
-  &emsp;
+  
    <hr>
    <h2 align="left">Languages and Tools:</h2>
     &nbsp;
