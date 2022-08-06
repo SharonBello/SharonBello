@@ -56,7 +56,6 @@ As a former designer and educator, I am always eager to learn and develop my cod
   &emsp;
 
 <hr>
-
 &nbsp;
 &emsp;
 
@@ -77,7 +76,6 @@ As a former designer and educator, I am always eager to learn and develop my cod
 
    &nbsp;
   &emsp;
-   
    <hr>
    <h2 align="left">Languages and Tools:</h2>
     &nbsp;
