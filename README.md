@@ -46,9 +46,9 @@ As a former designer and educator, I am always eager to learn and develop my cod
   &nbsp;
   &emsp;
 
-- ##🔭 I’m currently working on Primap and the Butterfly-Button
-- ##🌱 I’m currently practicing React and Angular
-## - ⚡ Fun fact: In 2003 I showcased my garments during New York Fashion Week
+# - 🔭 I’m currently working on Primap and the Butterfly-Button
+# - 🌱 I’m currently practicing React and Angular
+# - ⚡ Fun fact: In 2003 I showcased my garments during New York Fashion Week
 
   &nbsp;
   &emsp;
@@ -57,7 +57,7 @@ As a former designer and educator, I am always eager to learn and develop my cod
 
 <hr>
 
-📫 Email me: *sharonbellotech@gmail.com*
+## 📫 Email me: *sharonbellotech@gmail.com*
 
 <h3 align="left">My Resume:</h3>
 <p align="left">
