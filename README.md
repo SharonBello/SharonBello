@@ -76,9 +76,11 @@ As a former designer and educator, I am always eager to learn and develop my cod
 
 
    <h2 align="left">Languages and Tools:
-  &nbsp;
-  
+
    </h2>
+
+  &nbsp;
+  &emsp;
 
    <p align="left">
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img
@@ -175,8 +177,7 @@ As a former designer and educator, I am always eager to learn and develop my cod
     &nbsp;
   &emsp;
    </p>
-    &nbsp;
-  &emsp;
+
    <hr>
    
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FSharonBello%2FSharonBello.git&label=VISITORS&countColor=%232ccce4)
