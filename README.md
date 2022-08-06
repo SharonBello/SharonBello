@@ -77,8 +77,6 @@ As a former designer and educator, I am always eager to learn and develop my cod
 
    <h2 align="left">Languages and Tools:
    
-&nbsp;
-  &emsp;
   &nbsp;
   &emsp;
    </h2>
