@@ -79,12 +79,10 @@ As a former designer and educator, I am always eager to learn and develop my cod
    
   &nbsp;
   &emsp;
+
    </h2>
 
    <p align="left">
-
-   &nbsp;
-  &emsp;
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
             alt="javascript" width="40" height="40" />
@@ -176,6 +174,8 @@ As a former designer and educator, I am always eager to learn and develop my cod
       <a href="https://articulate.com/" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/moodle/moodle-original-wordmark.svg" alt="Moodle" width="40" height="40" />
       </a>
+    &nbsp;
+  &emsp;
    </p>
    <hr>
    
