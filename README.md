@@ -24,11 +24,12 @@ Full-Stack Developer with knowledge and experience in writing single-page-applic
 </h3>
 <hr>   
 
-<h4>
+<h3>
 &nbsp;
 &emsp;
 &nbsp;
 &emsp; 
+
 A self Starter & quick Learner, passionate about coding & technology , who loves to volunteer in social-impact startups, currently working with Primap, a technological platform aimed at helping teenagers with social anxiety. I also volunteer at the SheCodes organization, mentoring other women coders. 
 
 I recently graduated from the Coding Academy bootcamp where I fell in love with React, Angular and other modern web frameworks. 
@@ -38,7 +39,7 @@ As a former designer and educator, I am always eager to learn and develop my cod
 &emsp;
 &nbsp;
 &emsp;
-</h4>
+</h3>
 &nbsp;
 &emsp;
 &nbsp;
