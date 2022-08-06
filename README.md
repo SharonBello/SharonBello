@@ -56,10 +56,8 @@ As a former designer and educator, I am always eager to learn and develop my cod
   &emsp;
 
 <hr>
-&nbsp;
 
-
-<h3 align="left">📫 How to reach me </h3>*sharonbellotech@gmail.com*<br>
+<h3 align="left">📫 How to reach me </h3>*sharonbellotech@gmail.com*
 
 <h3 align="left">My Resume:</h3>
 <p align="left">
@@ -73,7 +71,6 @@ As a former designer and educator, I am always eager to learn and develop my cod
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
             alt="sharon-bello" height="30" width="40" /></a>
    </p>
-   &nbsp;
   
    <hr>
    <h2 align="left">Languages and Tools:</h2>
