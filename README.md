@@ -74,9 +74,8 @@ As a former designer and educator, I am always eager to learn and develop my cod
   
    <hr>
    <h2 align="left">Languages and Tools:
-   
-  &nbsp;
-  &emsp;
+
+  
    </h2>
    <p align="left">
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img
