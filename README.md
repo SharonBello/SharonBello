@@ -4,7 +4,6 @@ Hi there 👋 I'm Sharon
 </b>
 <hr>
 <center>
-<!-- <img width="100%" height="20%" src="gif3.gif"/> -->
 <img width="100%" height="20%" src="gif4.gif"/>
 </center>
  <hr>
@@ -61,7 +60,7 @@ As a former designer and educator, I am always eager to learn and develop my cod
 
 <h3 align="left">My Resume:</h3>
 <p align="left">
-<a href="https://drive.google.com/file/d/1MMTYRxj2ppO7WEi4quAOKhUALlohjJFz/view?usp=sharing" target="_blank"><img
+<a href="https://drive.google.com/file/d/1tk6D6EfwkKf3bJtaHPDFx4nsSze4khDK/view?usp=sharing" target="_blank"><img
             align="center" src="https://www.svgrepo.com/show/262734/curriculum-vitae-resume.svg"
             alt="sharon-bello-resume" height="40" width="40" /></a>
    </p>
